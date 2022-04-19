@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "259616864821",
+    "project_id": "rock-of-destruction-f10d5",
+    "storage_bucket": "rock-of-destruction-f10d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259616864821:android:1c0e4c2e70e848e9ec4f7c",
+        "android_client_info": {
+          "package_name": "com.BezaGames.RockofDestruction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259616864821-urjkhlq5t38eb9edddskstgs3f9ir449.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtVDN5Y1udphWZb3vwy1W-kv0xfdf8y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259616864821-urjkhlq5t38eb9edddskstgs3f9ir449.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259616864821-rvul9evm9175ce1ekeqmm2lqrpnmsis8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BezaGames.RockofDestruction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

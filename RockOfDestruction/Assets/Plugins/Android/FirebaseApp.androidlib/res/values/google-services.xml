@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">259616864821</string>
+  <string name="google_storage_bucket" translatable="false">rock-of-destruction-f10d5.appspot.com</string>
+  <string name="project_id" translatable="false">rock-of-destruction-f10d5</string>
+  <string name="google_api_key" translatable="false">AIzaSyDQtVDN5Y1udphWZb3vwy1W-kv0xfdf8y4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQtVDN5Y1udphWZb3vwy1W-kv0xfdf8y4</string>
+  <string name="google_app_id" translatable="false">1:259616864821:android:1c0e4c2e70e848e9ec4f7c</string>
+  <string name="default_web_client_id" translatable="false">259616864821-urjkhlq5t38eb9edddskstgs3f9ir449.apps.googleusercontent.com</string>
+</resources>
